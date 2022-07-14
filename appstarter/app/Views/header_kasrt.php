@@ -14,7 +14,7 @@
 <body>
   <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
     <div class="container">
-      <a class="navbar-brand" href="<?= base_url(); ?>">Data Warga RT 03 RW 08<br>Cibarusah Jaya</a>
+      <a class="navbar-brand" href="<?= base_url(); ?>">Data Warga RT 02 RW 02<br>Sukasari</a>
       <button class="navbar-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#collapsibleNavId" aria-controls="collapsibleNavId" aria-expanded="false" aria-label="Toggle navigation"></button>
 
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
