@@ -10,6 +10,6 @@
 # Link
 ## [Video Dokumentasi](https://youtu.be/m0GUGPEkdbA)
 
-[!] [IMAGE ALT TEXT HERE](/img/foto1.png) 
+## [Contoh Tampilan](/img/foto1.png)
 
 ## [Demo Program](http://kas-rt.rf.gd/)
