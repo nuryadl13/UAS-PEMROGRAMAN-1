@@ -8,7 +8,7 @@
 # UAS Pemrograman Web Semester 4 Membuat Aplikasi Pengelolaan Iuran Kas RT
 
 # Link
-## [Video Dokumentasi](https://youtu.be/m0GUGPEkdbA)
+## [Video Dokumentasi](https://youtu.be/m0GUGPEkdA)
 
 ## [Contoh Tampilan](/img/foto1.png)
 
